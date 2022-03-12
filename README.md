@@ -1,2 +1,2 @@
 # 36-350
-Statistical Computing Spring-22
+This repository is for Statistical Computing Spring-22
